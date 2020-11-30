@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Matt 👋
+
+🐝 I'm a first year MS HCI student at Georgia Tech specializing in XR
+
+👨‍💻 I’m currently learning [`react-three-fiber`](https://github.com/pmndrs/react-three-fiber), here's a fun [demo](https://62ocm.csb.app/) I made recently
+
+💬 I tweet about 3D and XR on the web: [@the_ross_man](https://twitter.com/the_ross_man)
+
+💼 Seeking UX Engineering internships for summer 2021 in the XR domain
 
 <!--
 **mattrossman/mattrossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
