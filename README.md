@@ -6,8 +6,6 @@
 
 💬 I tweet about 3D and XR on the web: [@the_ross_man](https://twitter.com/the_ross_man)
 
-💼 Seeking UX Engineering internships for summer 2021 in the XR domain
-
 <!--
 **mattrossman/mattrossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
