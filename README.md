@@ -1,8 +1,8 @@
 ### Hi there, I'm Matt 👋
 
-🐝 I'm a first year MS HCI student at Georgia Tech specializing in XR
+🐝 I'm a second year MS HCI student at Georgia Tech specializing in XR
 
-👨‍💻 I’m currently learning [`react-three-fiber`](https://github.com/pmndrs/react-three-fiber), here's a fun [demo](https://62ocm.csb.app/) I made recently
+👨‍💻 I’m currently working on emerging tech at [Paradowski](https://paradowski.com)
 
 💬 I tweet about 3D and XR on the web: [@the_ross_man](https://twitter.com/the_ross_man)
 
