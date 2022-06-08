@@ -1,10 +1,6 @@
-### Hi there, I'm Matt 👋
+Software engineer for [Hallway](https://joinhallway.com)
 
-🐝 I'm a second year MS HCI student at Georgia Tech specializing in XR
-
-👨‍💻 I’m currently experimenting with Mozilla Hubs in the [Augmented Environments Lab](https://github.com/aelatgt/)
-
-💬 I tweet about 3D and XR on the web: [@the_ross_man](https://twitter.com/the_ross_man)
+I tweet about 3D and XR on the web: [@the_ross_man](https://twitter.com/the_ross_man)
 
 <!--
 **mattrossman/mattrossman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
