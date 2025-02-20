@@ -1,10 +1,11 @@
 I'm a UX engineer specializing in 3D web technology.
 
 Some of my favorite prototyping tools include
-- Three.js
-- TypeScript
-- React
-- Tailwind CSS
+- [Three.js](https://threejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Effect](https://effect.website/)
 
 Previously I worked extensively in A-Frame for WebXR experiences, particularly for customizing Mozilla Hubs.
 
